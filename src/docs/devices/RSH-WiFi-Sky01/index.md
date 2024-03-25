@@ -18,6 +18,8 @@ Manufacturer: [tuya](https://expo.tuya.com/smart/lighting/ambient-lighting/star-
 
 [replacing WB3S chip with ESP12](https://github.com/kireque/esphome_nebula_light#tuya-wb3s)
 
+[software jailbreak without replacing the WB3S chip](https://github.com/M4GNV5/esphome-SK20-Nebula-Light)
+
 ## GPIO Pinout
 
 | Pin    | Function             |
